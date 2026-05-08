@@ -1,7 +1,9 @@
 🎓 Student Achievements Tracker
+
 A centralized digital platform to simplify and modernize the way student accomplishments are recorded and managed in academic institutions.
 
 📌 Overview
+
 The Student Achievements Tracker replaces traditional manual methods such as paper records and Excel sheets with a secure, web-based system. Students can upload certificates related to curricular and co-curricular activities, while faculty and HODs can review and approve them through a dedicated dashboard.
 
 🚩 Problem Statement
